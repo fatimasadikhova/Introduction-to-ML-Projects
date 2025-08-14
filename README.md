@@ -5,20 +5,21 @@ Each notebook demonstrates different analytical techniques, data preprocessing m
 
 # 📂 Repository Contents
 
-Customer Segmentation in Retail Banking.ipynb
-A project focusing on segmenting banking customers based on transaction behavior and demographics, using a simple K-Means Clustering approach to group them into segments.
+- [**Customer Segmentation in Retail Banking.ipynb**](Customer%20Segmentation%20in%20Retail%20Banking.ipynb)  
+  A project focusing on segmenting banking customers based on transaction behavior and demographics, using a simple K-Means Clustering approach to group them into segments.
 
-Game Analysis.Fatima Sadikhova.ipynb
-An analysis of game-related datasets, exploring patterns, trends, and key insights for the gaming industry.
+- [**Game Analysis.Fatima Sadikhova.ipynb**](Game%20Analysis.Fatima%20Sadikhova.ipynb)  
+  An analysis of game-related datasets, exploring patterns, trends, and key insights for the gaming industry.
 
-Introduction to Pandas.ipynb
-A hands-on notebook introducing the Pandas library, covering data loading, cleaning, transformation, and basic analysis.
+- [**Introduction to Pandas.ipynb**](Introduction%20to%20Pandas.ipynb)  
+  A hands-on notebook introducing the Pandas library, covering data loading, cleaning, transformation, and basic analysis.
 
-Movies_analyze.ipynb
-A movie dataset analysis project exploring ratings, genres, popularity trends, and other relevant insights.
+- [**Movies_analyze.ipynb**](Movies_analyze.ipynb)  
+  A movie dataset analysis project exploring ratings, genres, popularity trends, and other relevant insights.
 
-World Happiness Index Analysis.ipynb
-A study of the World Happiness Report dataset, analyzing the relationship between happiness scores and various socio-economic factors.
+- [**World Happiness Index Analysis.ipynb**](World%20Happiness%20Index%20Analysis.ipynb)  
+  A study of the World Happiness Report dataset, analyzing the relationship between happiness scores and various socio-economic factors.
+
 
 # 🛠️ Tools & Technologies
 
